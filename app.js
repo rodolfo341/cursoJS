@@ -1,3 +1,6 @@
-console.log("Información: Todo funciona correctamente.");
-console.warn("Advertencia: Este valor puede causar problemas.");
-console.error("Error: No se pudo completar la operación.");
+let a = 10;
+let b = '5';
+let c = 5;
+console.table({a,b,c})
+
+
